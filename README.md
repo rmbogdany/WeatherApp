@@ -1,2 +1,3 @@
-# weatherApp
-Cordova App
+# Weather App
+
+Cordova Application
